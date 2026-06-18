@@ -1,115 +1,162 @@
-# ☕ Costa Cafe Sales Dashboard
+# ☕ Costa Cafe Sales Dashboard | Excel Project
 
 ## 📌 Project Overview
-This project analyzes Costa Cafe sales data and presents key business insights through an interactive Excel Dashboard.
 
-The dashboard helps track sales performance, customer purchasing behavior, payment methods, and order distribution across different periods and shifts.
+This project analyzes Costa Cafe sales data and transforms raw transactional data into actionable business insights through an interactive Excel Dashboard.
 
----
-
-## 🎯 Objectives
-- Analyze overall sales performance.
-- Identify the most popular coffee products.
-- Monitor monthly order trends.
-- Understand customer payment preferences.
-- Analyze order distribution by shift.
+The dashboard enables stakeholders to monitor sales performance, customer purchasing behavior, payment preferences, and order distribution across different shifts and time periods.
 
 ---
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Power Query
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Dashboard Design
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="Screenshots/costa-cafe.png" width="1000">
+</p>
 
 ---
 
-## 🧹 Data Cleaning Process
+## 🎯 Project Objectives
+
+* Analyze overall sales performance.
+* Identify top-performing coffee products.
+* Monitor monthly sales and order trends.
+* Understand customer payment behavior.
+* Evaluate order distribution across shifts.
+* Support business decision-making through data visualization.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Microsoft Excel
+* Power Query
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Dashboard Design
+* Data Visualization
+
+---
+
+## 🧹 Data Cleaning & Preparation
 
 The dataset was cleaned and transformed using Power Query before analysis.
 
-### Cleaning Steps:
-- Removed duplicate records.
-- Checked for missing values.
-- Standardized date formats.
-- Trimmed extra spaces using **TRIM**.
-- Removed non-printable characters using **CLEAN**.
-- Corrected inconsistent text values.
-- Created calculated fields when needed.
-- Validated data types for all columns.
+### Power Query
+
+The following transformations were performed:
+
+* Removed duplicate records.
+* Checked and handled missing values.
+* Standardized date formats.
+* Removed extra spaces using Trim.
+* Removed non-printable characters using Clean.
+* Corrected inconsistent text values.
+* Validated data types.
+* Created calculated fields where required.
 
 ---
 
-## 📊 Dashboard KPIs
+## 📈 Key Performance Indicators (KPIs)
 
-The dashboard provides:
+The dashboard tracks the following KPIs:
 
-### 1. Total Sales
-Displays the total revenue generated.
-
-### 2. Total Orders
-Shows the total number of orders.
-
-### 3. Menu Items
-Shows the number of unique products available.
-
-### 4. Most Popular Coffee
-Ranks coffee products based on order count.
-
-### 5. Orders by Month
-Tracks order trends over time.
-
-### 6. Payment Method Analysis
-Compares Card vs Cash transactions.
-
-### 7. Orders by Shift
-Analyzes orders across:
-- Morning
-- Afternoon
-- Evening
+* 💰 Total Sales
+* 📦 Total Orders
+* ☕ Menu Items
+* 🏆 Most Popular Coffee
 
 ---
 
-## 🎨 Dashboard Features
-- Interactive Day Filter (Slicer)
-- Dark Theme Design
-- Coffee-themed Visual Layout
-- Dynamic Charts and KPIs
+## 📊 Dashboard Features
+
+### Sales Analysis
+
+* Total Sales Overview
+* Monthly Order Trends
+
+### Product Analysis
+
+* Most Popular Coffee Products
+* Product Performance Comparison
+
+### Payment Analysis
+
+* Card vs Cash Transactions
+* Customer Payment Preferences
+
+### Shift Analysis
+
+* Morning Orders
+* Afternoon Orders
+* Evening Orders
+
+### Interactive Filtering
+
+Users can dynamically filter dashboard results using slicers.
 
 ---
 
-## 📷 Dashboard Preview
+## 🎨 Dashboard Design Features
 
-![Dashboard Screenshot](dashboard.png)
-
----
-
-## 📈 Key Insights
-- Americano with Milk is the best-selling coffee.
-- Card payments dominate customer transactions.
-- Morning shift generates the highest number of orders.
-- Sales and orders fluctuate across months.
+* Coffee-Themed Visual Design
+* Interactive User Experience
+* Dynamic Charts and KPIs
+* Dark Mode Dashboard Layout
 
 ---
 
-## 📂 Project Structure
+## 💡 Key Insights
 
-```
+* Americano with Milk is the best-selling coffee product.
+* Card payments account for the majority of transactions.
+* The Morning Shift generates the highest order volume.
+* Monthly order volume fluctuates throughout the year.
+
+---
+
+## 🚀 Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Power Query
+* Dashboard Design
+* KPI Development
+* Business Intelligence Reporting
+* Data Visualization
+* Analytical Thinking
+
+---
+
+## 📁 Repository Structure
+
+```text
 Costa-Cafe-Dashboard/
 │
-├── Costa Cafe Dashboard.xlsx
-├── dashboard.png
+├── Dataset
+├── Dashboard
+├── Screenshots
+│   └── dashboard.png
 └── README.md
 ```
 
 ---
 
-## 👨‍💻 Author
+## 🔗 Connect With Me
 
-**Naguib Mousa**
-Data Analyst
+### Portfolio
 
-GitHub: https://github.com/Naguib5
-LinkedIn: www.linkedin.com/in/naguib-mousa
+🌐 https://naguib5.github.io/
+
+### LinkedIn
+
+💼 https://www.linkedin.com/in/naguib-mousa-a9719b220/
+
+### GitHub
+
+💻 https://github.com/Naguib5
+
+---
+
+⭐ If you found this project interesting, feel free to give it a star.

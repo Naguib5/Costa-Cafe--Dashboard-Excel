@@ -11,7 +11,7 @@ The dashboard enables stakeholders to monitor sales performance, customer purcha
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="Screenshots/costa-cafe.png" width="1000">
+  <img src="Screenshots/dashboard.png" width="1000">
 </p>
 
 ---
